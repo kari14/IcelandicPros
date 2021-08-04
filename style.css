@@ -1,0 +1,84 @@
+* {
+  * margin: 0;
+  * padding: 0;
+}
+
+body {
+  background-color: #01171b;
+}
+
+svg path {
+  fill: #00394f;
+  stroke: #eee;
+  stroke-width: .25;
+}
+
+svg path:hover {
+  fill: #006284;
+  transition: 0.6s;
+  cursor: pointer;
+}
+
+.played {
+  fill: #ffffff;
+}
+
+.Australia {
+  fill: #ffffff;
+}
+
+.Denmark {
+  fill: #ffffff;
+}
+
+.China {
+  fill: #ffffff;
+}
+
+.Malta {
+  fill: #ffffff;
+}
+
+.Cyprus {
+  fill: #ffffff;
+}
+
+.Norway {
+  fill: #ffffff;
+}
+
+.RussianFederation {
+  fill: #ffffff;
+}
+
+.France {
+  fill: #ffffff;
+}
+
+.Italy {
+  fill: #ffffff;
+}
+
+.Greece {
+  fill: #ffffff;
+}
+
+.Turkey {
+  fill: #ffffff;
+}
+
+.FaeroeIslands {
+  fill: #ffffff;
+}
+
+.UnitedStates {
+  fill: #ffffff;
+}
+
+.Canada {
+  fill: #ffffff;
+}
+
+.Azerbaijan {
+  fill: #ffffff;
+}
